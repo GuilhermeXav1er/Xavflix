@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Xavflix</string>
+    <string name="menu_Subtitles">Menu Subtitles</string>
+    <string name="menu_Volume">Menu Volume</string>
+    <string name="menu_Episodes">Menu Episódios</string>
+    <string name="menu_Stared">Menu Favoritar</string>
+    <string name="menu_Title">Menu Título</string>
+    <string name="menu_Episode">Menu Episódio</string>
 </resources>
